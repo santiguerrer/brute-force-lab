@@ -46,6 +46,7 @@ This project demonstrates how a brute-force SSH attack is conducted on a Linux s
 
 ## 📄 Full Lab Report (PDF)
 
-For a detailed analysis of the brute-force attack and results, please download the full lab report.
+[Lab Report Brute Force PDF.pdf](https://github.com/user-attachments/files/19912494/Lab.Report.Brute.Force.PDF.pdf)
 
-[Download the PDF Report](Brute-Force-Lab-Report.pdf)
+
+
